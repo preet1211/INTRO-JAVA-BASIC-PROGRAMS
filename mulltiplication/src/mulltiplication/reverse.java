@@ -24,6 +24,8 @@ public class reverse {
                 a[i][j]=s.nextInt();
             }
         }
+
+System.out.println("fuck off ");
         System.out.println("Enter row number you want to reverse ");
         r=s.nextInt();
         r--;
